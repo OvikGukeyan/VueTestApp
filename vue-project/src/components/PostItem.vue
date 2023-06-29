@@ -32,6 +32,7 @@ export default {
         border: 1px solid #000;
         border-radius: 8px;
         margin-bottom: 15px;
+        padding: 5px;
     }
 
 </style>
